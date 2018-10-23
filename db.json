@@ -3,7 +3,7 @@
     {
       "id": 1,
       "Name": "Husein",
-      "Bank-Name": "Bank Matahari",
+      "Bank_Name": "Bank Matahari",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081675428910",
       "Email": "matahari@gmail.com"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "Name": "Kamad",
-      "Bank-Name": "Bank Rembulan",
+      "Bank_Name": "Bank Rembulan",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167547700",
       "Email": "rembulan@gmail.com"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "Name": "Abdul Rashid",
-      "Bank-Name": "Bank Bintang",
+      "Bank_Name": "Bank Bintang",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167665544",
       "Email": "bintang@gmail.com"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "Name": "Abdul Karim",
-      "Bank-Name": "Bank Mawar",
+      "Bank_Name": "Bank Mawar",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167890087",
       "Email": "mawar@gmail.com"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "Name": "Asep",
-      "Bank-Name": "Bank Kamboja",
+      "Bank_Name": "Bank Kamboja",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081609908761",
       "Email": "kamboja@gmail.com"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "Name": "Muhidin",
-      "Bank-Name": "Bank Tulip",
+      "Bank_Name": "Bank Tulip",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081090887112",
       "Email": "tulip@gmail.com"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "Name": "Endah",
-      "Bank-Name": "Bank Anggrek",
+      "Bank_Name": "Bank Anggrek",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899909818",
       "Email": "anggrek@gmail.com"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "Name": "Icha ",
-      "Bank-Name": "Bank Allamanda",
+      "Bank_Name": "Bank Allamanda",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899905417",
       "Email": "allamanda@gmail.com"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "Name": "Dicky  ",
-      "Bank-Name": "Bank Anyelir",
+      "Bank_Name": "Bank Anyelir",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899907677",
       "Email": "anyelir@gmail.com"
@@ -75,7 +75,7 @@
     {
       "id": 10,
       "Name": "Rusfandi  ",
-      "Bank-Name": "Bank Asoka",
+      "Bank_Name": "Bank Asoka",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087865778600",
       "Email": "asoka@gmail.com"
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "Name": "dodi  ",
-      "Bank-Name": "Bank Begonia",
+      "Bank_Name": "Bank Begonia",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087865770000",
       "Email": "begonia@gmail.com"
@@ -94,7 +94,7 @@
       "id": 1,
       "userId": 1,
       "Name": "Husein",
-      "Bank-Name": "Bank Matahari",
+      "Bank_Name": "Bank Matahari",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081675428910",
       "Email": "matahari@gmail.com"
@@ -103,7 +103,7 @@
       "id": 2,
       "userId": 2,
       "Name": "Kamad",
-      "Bank-Name": "Bank Rembulan",
+      "Bank_Name": "Bank Rembulan",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167547700",
       "Email": "rembulan@gmail.com"
@@ -112,7 +112,7 @@
       "id": 3,
       "userId": 3,
       "Name": "Abdul Rashid",
-      "Bank-Name": "Bank Bintang",
+      "Bank_Name": "Bank Bintang",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167665544",
       "Email": "bintang@gmail.com"
@@ -121,7 +121,7 @@
       "id": 4,
       "userId": 4,
       "Name": "Abdul Karim",
-      "Bank-Name": "Bank Mawar",
+      "Bank_Name": "Bank Mawar",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167890087",
       "Email": "mawar@gmail.com"
@@ -130,7 +130,7 @@
       "id": 5,
       "userId": 5,
       "Name": "Asep",
-      "Bank-Name": "Bank Kamboja",
+      "Bank_Name": "Bank Kamboja",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081609908761",
       "Email": "kamboja@gmail.com"
@@ -139,7 +139,7 @@
       "id": 6,
       "userId": 6,
       "Name": "Muhidin",
-      "Bank-Name": "Bank Tulip",
+      "Bank_Name": "Bank Tulip",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "081090887112",
       "Email": "tulip@gmail.com"
@@ -148,7 +148,7 @@
       "id": 7,
       "userId": 7,
       "Name": "Endah",
-      "Bank-Name": "Bank Anggrek",
+      "Bank_Name": "Bank Anggrek",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899909818",
       "Email": "anggrek@gmail.com"
@@ -157,7 +157,7 @@
       "id": 8,
       "userId": 8,
       "Name": "Icha ",
-      "Bank-Name": "Bank Allamanda",
+      "Bank_Name": "Bank Allamanda",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899905417",
       "Email": "allamanda@gmail.com"
@@ -166,7 +166,7 @@
       "id": 9,
       "userId": 9,
       "Name": "Dicky  ",
-      "Bank-Name": "Bank Anyelir",
+      "Bank_Name": "Bank Anyelir",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087899907677",
       "Email": "anyelir@gmail.com"
@@ -175,7 +175,7 @@
       "id": 10,
       "userId": 10,
       "Name": "Rusfandi  ",
-      "Bank-Name": "Bank Asoka",
+      "Bank_Name": "Bank Asoka",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087865778600",
       "Email": "asoka@gmail.com"
@@ -184,7 +184,7 @@
       "id": 11,
       "userId": 11,
       "Name": "dodi  ",
-      "Bank-Name": "Bank Begonia",
+      "Bank_Name": "Bank Begonia",
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "087865770000",
       "Email": "begonia@gmail.com",
