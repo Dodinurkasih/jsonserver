@@ -23,70 +23,6 @@
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167665544",
       "Email": "bintang@gmail.com"
-    },
-    {
-      "id": 4,
-      "Name": "Abdul Karim",
-      "Bank_Name": "Bank Mawar",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167890087",
-      "Email": "mawar@gmail.com"
-    },
-    {
-      "id": 5,
-      "Name": "Asep",
-      "Bank_Name": "Bank Kamboja",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081609908761",
-      "Email": "kamboja@gmail.com"
-    },
-    {
-      "id": 6,
-      "Name": "Muhidin",
-      "Bank_Name": "Bank Tulip",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081090887112",
-      "Email": "tulip@gmail.com"
-    },
-    {
-      "id": 7,
-      "Name": "Endah",
-      "Bank_Name": "Bank Anggrek",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899909818",
-      "Email": "anggrek@gmail.com"
-    },
-    {
-      "id": 8,
-      "Name": "Icha ",
-      "Bank_Name": "Bank Allamanda",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899905417",
-      "Email": "allamanda@gmail.com"
-    },
-    {
-      "id": 9,
-      "Name": "Dicky  ",
-      "Bank_Name": "Bank Anyelir",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899907677",
-      "Email": "anyelir@gmail.com"
-    },
-    {
-      "id": 10,
-      "Name": "Rusfandi  ",
-      "Bank_Name": "Bank Asoka",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087865778600",
-      "Email": "asoka@gmail.com"
-    },
-    {
-      "id": 11,
-      "Name": "dodi  ",
-      "Bank_Name": "Bank Begonia",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087865770000",
-      "Email": "begonia@gmail.com"
     }
   ],
   "posts": [
@@ -116,79 +52,112 @@
       "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
       "No.HandPhone": "08167665544",
       "Email": "bintang@gmail.com"
+    }
+  ],
+  "nasabah": [
+    {
+      "id": 1,
+      "nasabahId": 1,
+      "nama": "Dodi",
+      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "hp": "081675428910",
+      "email": "matahari@gmail.com"
     },
     {
-      "id": 4,
-      "userId": 4,
-      "Name": "Abdul Karim",
-      "Bank_Name": "Bank Mawar",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167890087",
-      "Email": "mawar@gmail.com"
+      "id": 2,
+      "nasabahId": 2,
+      "nama": "Muhidin",
+      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "hp": "08167547700",
+      "email": "rembulan@gmail.com"
     },
     {
-      "id": 5,
-      "userId": 5,
-      "Name": "Asep",
-      "Bank_Name": "Bank Kamboja",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081609908761",
-      "Email": "kamboja@gmail.com"
+      "id": 3,
+      "nasabahId": 3,
+      "nama": " Asep",
+      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "hp": "08167665544",
+      "email": "bintang@gmail.com"
+    }
+  ],
+  "transaksi": [
+    {
+      "id": 1,
+      "nasabahId": 1,
+      "transaksiId": 1,
+      "jenissampah": "kaleng bekas",
+      "hargasampah": 5000,
+      "tanggal": "10-januari-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
     },
     {
-      "id": 6,
-      "userId": 6,
-      "Name": "Muhidin",
-      "Bank_Name": "Bank Tulip",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081090887112",
-      "Email": "tulip@gmail.com"
+      "id": 2,
+      "nasabahId": 2,
+      "transaksiId": 2,
+      "jenissampah": "botol bekas",
+      "hargasampah": 5000,
+      "tanggal": "20-januari-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
     },
     {
-      "id": 7,
-      "userId": 7,
-      "Name": "Endah",
-      "Bank_Name": "Bank Anggrek",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899909818",
-      "Email": "anggrek@gmail.com"
+      "id": 3,
+      "nasabahId": 3,
+      "transaksiId": 3,
+      "jenissampah": "botol kaca",
+      "hargasampah": 5000,
+      "tanggal": "18-januari-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
+    }
+  ],
+  "stransaksi": [
+    {
+      "id": "1",
+      "status": "selesai"
     },
     {
-      "id": 8,
-      "userId": 8,
-      "Name": "Icha ",
-      "Bank_Name": "Bank Allamanda",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899905417",
-      "Email": "allamanda@gmail.com"
+      "id": "2",
+      "status": "batal"
     },
     {
-      "id": 9,
-      "userId": 9,
-      "Name": "Dicky  ",
-      "Bank_Name": "Bank Anyelir",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087899907677",
-      "Email": "anyelir@gmail.com"
+      "id": "3",
+      "status": "Menunggu Konfirmasi Penjemputan"
     },
     {
-      "id": 10,
-      "userId": 10,
-      "Name": "Rusfandi  ",
-      "Bank_Name": "Bank Asoka",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087865778600",
-      "Email": "asoka@gmail.com"
+      "id": "4",
+      "status": "Menunggu Konfirmasi Beli"
+    }
+  ],
+  "updateharga": [
+    {
+      "id": 1,
+      "namabarang": "Kaleng",
+      "lastupdate": "10-maret-2018"
     },
     {
-      "id": 11,
-      "userId": 11,
-      "Name": "dodi  ",
-      "Bank_Name": "Bank Begonia",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "087865770000",
-      "Email": "begonia@gmail.com",
-      "views": 0
+      "id": 2,
+      "namabarang": "Botol Pelatik",
+      "lastupdate": "10-januari-2018"
+    }
+  ],
+  "jadwalpickup": [
+    {
+      "id": 1,
+      "judul": "Jadwal penjemputan sampah",
+      "kirimke": "dodi,muhidin,asep",
+      "titikawal": "thebreez",
+      "titikakhir": "cocowork"
+    }
+  ],
+  "akunsaya": [
+    {
+      "id": 1,
+      "namabank": "Bank Merdeka",
+      "alamat": "tangerang selatan",
+      "hp": "0847321",
+      "totalpembelian": 50000
     }
   ]
 }
