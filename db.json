@@ -54,37 +54,38 @@
       "Email": "bintang@gmail.com"
     }
   ],
-  "nasabah": [
+  "customers": [
     {
       "id": 1,
-      "nasabahId": 1,
+      "customerId": 1,
       "nama": "Dodi",
-      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "alamat": "Jl. Grand Boulevard",
       "hp": "081675428910",
       "email": "matahari@gmail.com"
     },
     {
       "id": 2,
-      "nasabahId": 2,
+      "customerId": 2,
       "nama": "Muhidin",
-      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "alamat": "Jl.BSD Green Office Park",
       "hp": "08167547700",
       "email": "rembulan@gmail.com"
     },
     {
       "id": 3,
-      "nasabahId": 3,
+      "customerId": 3,
       "nama": " Asep",
-      "alamat": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
+      "alamat": "Jl. Cisauk, Sampora, Cisauk, Tangerang",
       "hp": "08167665544",
       "email": "bintang@gmail.com"
     }
   ],
-  "transaksi": [
+  "transactions": [
     {
       "id": 1,
-      "nasabahId": 1,
-      "transaksiId": 1,
+      "customerId": 1,
+      "transactionId": 1,
+      "statusId": 1,
       "jenissampah": "kaleng bekas",
       "hargasampah": 5000,
       "tanggal": "10-januari-2018",
@@ -93,8 +94,9 @@
     },
     {
       "id": 2,
-      "nasabahId": 2,
-      "transaksiId": 2,
+      "customerId": 2,
+      "transactionId": 2,
+      "statusId": 2,
       "jenissampah": "botol bekas",
       "hargasampah": 5000,
       "tanggal": "20-januari-2018",
@@ -103,8 +105,9 @@
     },
     {
       "id": 3,
-      "nasabahId": 3,
-      "transaksiId": 3,
+      "customerId": 3,
+      "transactionId": 3,
+      "statusId": 3,
       "jenissampah": "botol kaca",
       "hargasampah": 5000,
       "tanggal": "18-januari-2018",
@@ -114,19 +117,23 @@
   ],
   "stransaksi": [
     {
-      "id": "1",
+      "id": 1,
+      "statusId": 1,
       "status": "selesai"
     },
     {
-      "id": "2",
+      "id": 2,
+      "statusId": 2,
       "status": "batal"
     },
     {
-      "id": "3",
+      "id": 3,
+      "statusId": 3,
       "status": "Menunggu Konfirmasi Penjemputan"
     },
     {
-      "id": "4",
+      "id": 4,
+      "statusId": 4,
       "status": "Menunggu Konfirmasi Beli"
     }
   ],
@@ -151,7 +158,7 @@
       "titikakhir": "cocowork"
     }
   ],
-  "akunsaya": [
+  "myaccounts": [
     {
       "id": 1,
       "namabank": "Bank Merdeka",
