@@ -1,59 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "Name": "Husein",
-      "Bank_Name": "Bank Matahari",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081675428910",
-      "Email": "matahari@gmail.com"
-    },
-    {
-      "id": 2,
-      "Name": "Kamad",
-      "Bank_Name": "Bank Rembulan",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167547700",
-      "Email": "rembulan@gmail.com"
-    },
-    {
-      "id": 3,
-      "Name": "Abdul Rashid",
-      "Bank_Name": "Bank Bintang",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167665544",
-      "Email": "bintang@gmail.com"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "userId": 1,
-      "Name": "Husein",
-      "Bank_Name": "Bank Matahari",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "081675428910",
-      "Email": "matahari@gmail.com"
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "Name": "Kamad",
-      "Bank_Name": "Bank Rembulan",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167547700",
-      "Email": "rembulan@gmail.com"
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "Name": "Abdul Rashid",
-      "Bank_Name": "Bank Bintang",
-      "Address": "Jl. Grand Boulevard, BSD Green Office Park, Cisauk, Sampora, Cisauk, Tangerang, Banten 15345",
-      "No.HandPhone": "08167665544",
-      "Email": "bintang@gmail.com"
-    }
-  ],
   "customers": [
     {
       "id": 1,
@@ -147,24 +92,6 @@
       "id": 2,
       "namabarang": "Botol Pelatik",
       "lastupdate": "10-januari-2018"
-    }
-  ],
-  "jadwalpickup": [
-    {
-      "id": 1,
-      "judul": "Jadwal penjemputan sampah",
-      "kirimke": "dodi,muhidin,asep",
-      "titikawal": "thebreez",
-      "titikakhir": "cocowork"
-    }
-  ],
-  "myaccounts": [
-    {
-      "id": 1,
-      "namabank": "Bank Merdeka",
-      "alamat": "tangerang selatan",
-      "hp": "0847321",
-      "totalpembelian": 50000
     }
   ]
 }
