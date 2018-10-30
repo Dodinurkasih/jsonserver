@@ -93,5 +93,15 @@
       "namabarang": "Botol Pelatik",
       "lastupdate": "10-januari-2018"
     }
+  ],
+  "myaccounts": [
+    {
+      "id": 1,
+      "nama": "Dodi",
+      "namabank": "Bank Merdeka",
+      "alamat": "tangerang selatan",
+      "hp": "0847321",
+      "totalpembelian": 50000
+    }
   ]
 }
