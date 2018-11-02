@@ -6,7 +6,7 @@
       "nama": "Dodi",
       "alamat": "Jl. Grand Boulevard",
       "hp": "081675428910",
-      "email": "matahari@gmail.com"
+      "email": "dodi@gmail.com"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "nama": "Muhidin",
       "alamat": "Jl.BSD Green Office Park",
       "hp": "08167547700",
-      "email": "rembulan@gmail.com"
+      "email": "muhidin@gmail.com"
     },
     {
       "id": 3,
@@ -22,7 +22,39 @@
       "nama": " Asep",
       "alamat": "Jl. Cisauk, Sampora, Cisauk, Tangerang",
       "hp": "08167665544",
-      "email": "bintang@gmail.com"
+      "email": "asep@gmail.com"
+    },
+    {
+      "id": 4,
+      "customerId": 4,
+      "nama": "Dicky",
+      "alamat": "Jl. Grand Lurus",
+      "hp": "081675428910",
+      "email": "dicky@gmail.com"
+    },
+    {
+      "id": 5,
+      "customerId": 5,
+      "nama": "Rusfandi",
+      "alamat": "Jl.BSD Office Park",
+      "hp": "08167547700",
+      "email": "rusfandi@gmail.com"
+    },
+    {
+      "id": 6,
+      "customerId": 6,
+      "nama": " Icha",
+      "alamat": "Jl. Cisauk, Sampora, Cisauk",
+      "hp": "08167665544",
+      "email": "icha@gmail.com"
+    },
+    {
+      "id": 7,
+      "customerId": 7,
+      "nama": " Endah",
+      "alamat": "Jl.Sampora, Cisauk",
+      "hp": "08167665544",
+      "email": "endah@gmail.com"
     }
   ],
   "transactions": [
@@ -55,7 +87,51 @@
       "statusId": 3,
       "jenissampah": "botol kaca",
       "hargasampah": 5000,
-      "tanggal": "18-januari-2018",
+      "tanggal": "18-September-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
+    },
+    {
+      "id": 4,
+      "customerId": 4,
+      "transactionId": 4,
+      "statusId": 4,
+      "jenissampah": "Besi bekas",
+      "hargasampah": 5000,
+      "tanggal": "10-Agustus-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
+    },
+    {
+      "id": 5,
+      "customerId": 5,
+      "transactionId": 5,
+      "statusId": 1,
+      "jenissampah": "Tembaga",
+      "hargasampah": 5000,
+      "tanggal": "20-Juli-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
+    },
+    {
+      "id": 6,
+      "customerId": 6,
+      "transactionId": 6,
+      "statusId": 2,
+      "jenissampah": "Kaca",
+      "hargasampah": 5000,
+      "tanggal": "18-Juni-2018",
+      "jumlahsampah": "30kg",
+      "totalpembayaran": 30000
+    },
+    {
+      "id": 7,
+      "customerId": 7,
+      "transactionId": 7,
+      "statusId": 4,
+      "jenissampah": "Kabel",
+      "hargasampah": 5000,
+      "tanggal": "18-februari-2018",
       "jumlahsampah": "30kg",
       "totalpembayaran": 30000
     }
@@ -97,6 +173,7 @@
   "myaccounts": [
     {
       "id": 1,
+      "accountId": 1,
       "nama": "Dodi",
       "namabank": "Bank Merdeka",
       "alamat": "tangerang selatan",
