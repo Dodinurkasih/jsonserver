@@ -67,7 +67,8 @@
       "hargasampah": 5000,
       "tanggal": "10-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Cash"
     },
     {
       "id": 2,
@@ -78,7 +79,8 @@
       "hargasampah": 5000,
       "tanggal": "20-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Transfer"
     },
     {
       "id": 3,
@@ -87,9 +89,10 @@
       "statusId": 3,
       "jenissampah": "botol kaca",
       "hargasampah": 5000,
-      "tanggal": "18-September-2018",
+      "tanggal": "18-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Tunai"
     },
     {
       "id": 4,
@@ -98,9 +101,10 @@
       "statusId": 4,
       "jenissampah": "Besi bekas",
       "hargasampah": 5000,
-      "tanggal": "10-Agustus-2018",
+      "tanggal": "10-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Transfer"
     },
     {
       "id": 5,
@@ -109,9 +113,10 @@
       "statusId": 1,
       "jenissampah": "Tembaga",
       "hargasampah": 5000,
-      "tanggal": "20-Juli-2018",
+      "tanggal": "20-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Tunai"
     },
     {
       "id": 6,
@@ -120,9 +125,10 @@
       "statusId": 2,
       "jenissampah": "Kaca",
       "hargasampah": 5000,
-      "tanggal": "18-Juni-2018",
+      "tanggal": "18-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Cash"
     },
     {
       "id": 7,
@@ -131,9 +137,10 @@
       "statusId": 4,
       "jenissampah": "Kabel",
       "hargasampah": 5000,
-      "tanggal": "18-februari-2018",
+      "tanggal": "18-januari-2018",
       "jumlahsampah": "30kg",
-      "totalpembayaran": 30000
+      "totalpembayaran": 30000,
+      "metodepembayaran": "Transfer"
     }
   ],
   "stransaksi": [
