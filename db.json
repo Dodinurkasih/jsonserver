@@ -187,19 +187,5 @@
       "hp": "0847321",
       "totalpembelian": 50000
     }
-  ],
-  "pembelian": [
-    {
-      "id": 4,
-      "customerId": 4,
-      "transactionId": 4,
-      "statusId": 4
-    },
-    {
-      "id": 2,
-      "customerId": 2,
-      "transactionId": 2,
-      "statusId": 2
-    }
   ]
 }
