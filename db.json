@@ -1,68 +1,13 @@
 {
-  "customers": [
-    {
-      "id": 1,
-      "customerId": 1,
-      "nama": "Dodi",
-      "alamat": "Jl. Grand Boulevard",
-      "hp": "081675428910",
-      "email": "dodi@gmail.com"
-    },
-    {
-      "id": 2,
-      "customerId": 2,
-      "nama": "Muhidin",
-      "alamat": "Jl.BSD Green Office Park",
-      "hp": "08167547700",
-      "email": "muhidin@gmail.com"
-    },
-    {
-      "id": 3,
-      "customerId": 3,
-      "nama": " Asep",
-      "alamat": "Jl. Cisauk, Sampora, Cisauk, Tangerang",
-      "hp": "08167665544",
-      "email": "asep@gmail.com"
-    },
-    {
-      "id": 4,
-      "customerId": 4,
-      "nama": "Dicky",
-      "alamat": "Jl. Grand Lurus",
-      "hp": "081675428910",
-      "email": "dicky@gmail.com"
-    },
-    {
-      "id": 5,
-      "customerId": 5,
-      "nama": "Rusfandi",
-      "alamat": "Jl.BSD Office Park",
-      "hp": "08167547700",
-      "email": "rusfandi@gmail.com"
-    },
-    {
-      "id": 6,
-      "customerId": 6,
-      "nama": " Icha",
-      "alamat": "Jl. Cisauk, Sampora, Cisauk",
-      "hp": "08167665544",
-      "email": "icha@gmail.com"
-    },
-    {
-      "id": 7,
-      "customerId": 7,
-      "nama": " Endah",
-      "alamat": "Jl.Sampora, Cisauk",
-      "hp": "08167665544",
-      "email": "endah@gmail.com"
-    }
-  ],
   "transactions": [
     {
       "id": 1,
-      "customerId": 1,
       "transactionId": 1,
       "statusId": 1,
+      "nama": "Dodi",
+      "alamat": "Jl. Grand Boulevard",
+      "hp": "081675428910",
+      "email": "dodi@gmail.com",
       "jenissampah": "kaleng bekas",
       "hargasampah": 5000,
       "tanggal": "10-januari-2018",
@@ -72,9 +17,12 @@
     },
     {
       "id": 2,
-      "customerId": 2,
       "transactionId": 2,
       "statusId": 2,
+      "nama": "Muhidin",
+      "alamat": "Jl.BSD Green Office Park",
+      "hp": "08167547700",
+      "email": "muhidin@gmail.com",
       "jenissampah": "botol bekas",
       "hargasampah": 5000,
       "tanggal": "20-januari-2018",
@@ -84,9 +32,12 @@
     },
     {
       "id": 3,
-      "customerId": 3,
       "transactionId": 3,
       "statusId": 3,
+      "nama": " Asep",
+      "alamat": "Jl. Cisauk, Sampora, Cisauk, Tangerang",
+      "hp": "08167665544",
+      "email": "asep@gmail.com",
       "jenissampah": "botol kaca",
       "hargasampah": 5000,
       "tanggal": "18-januari-2018",
@@ -96,9 +47,12 @@
     },
     {
       "id": 4,
-      "customerId": 4,
       "transactionId": 4,
       "statusId": 4,
+      "nama": "Dicky",
+      "alamat": "Jl. Grand Lurus",
+      "hp": "081675428910",
+      "email": "dicky@gmail.com",
       "jenissampah": "Besi bekas",
       "hargasampah": 5000,
       "tanggal": "10-januari-2018",
@@ -108,9 +62,12 @@
     },
     {
       "id": 5,
-      "customerId": 5,
       "transactionId": 5,
       "statusId": 1,
+      "nama": "Rusfandi",
+      "alamat": "Jl.BSD Office Park",
+      "hp": "08167547700",
+      "email": "rusfandi@gmail.com",
       "jenissampah": "Tembaga",
       "hargasampah": 5000,
       "tanggal": "20-januari-2018",
@@ -120,9 +77,12 @@
     },
     {
       "id": 6,
-      "customerId": 6,
       "transactionId": 6,
       "statusId": 2,
+      "nama": " Icha",
+      "alamat": "Jl. Cisauk, Sampora, Cisauk",
+      "hp": "08167665544",
+      "email": "icha@gmail.com",
       "jenissampah": "Kaca",
       "hargasampah": 5000,
       "tanggal": "18-januari-2018",
@@ -132,9 +92,12 @@
     },
     {
       "id": 7,
-      "customerId": 7,
       "transactionId": 7,
       "statusId": 4,
+      "nama": " Endah",
+      "alamat": "Jl.Sampora, Cisauk",
+      "hp": "08167665544",
+      "email": "endah@gmail.com",
       "jenissampah": "Kabel",
       "hargasampah": 5000,
       "tanggal": "18-januari-2018",
@@ -168,13 +131,34 @@
   "updateharga": [
     {
       "id": 1,
+      "updateId": 1,
+      "perkilo": 1,
+      "harga": 5000,
       "namabarang": "Kaleng",
       "lastupdate": "10-maret-2018"
     },
     {
       "id": 2,
+      "updateId": 2,
+      "perkilo": 1,
+      "harga": 10000,
       "namabarang": "Botol Pelatik",
       "lastupdate": "10-januari-2018"
+    },
+    {
+      "namabarang": "Sukro",
+      "perkilo": "50",
+      "harga": "5000000",
+      "lastupdate": "07-Nov-2020",
+      "updateId": 3,
+      "id": 3
+    },
+    {
+      "namabarang": "Tutu Botol",
+      "perkilo": "1",
+      "harga": "2000",
+      "lastupdate": "08-Nov-2018",
+      "id": 4
     }
   ],
   "myaccounts": [
@@ -182,10 +166,22 @@
       "id": 1,
       "accountId": 1,
       "nama": "Dodi",
-      "namabank": "Bank Merdeka",
+      "namabank": "Bank Merdeka Selamanya",
       "alamat": "tangerang selatan",
-      "hp": "0847321",
+      "hp": "0847328676854698",
       "totalpembelian": 50000
+    }
+  ],
+  "pembelian": [
+    {
+      "id": 4,
+      "transactionId": 4,
+      "statusId": 4
+    },
+    {
+      "id": 2,
+      "transactionId": 2,
+      "statusId": 2
     }
   ]
 }
