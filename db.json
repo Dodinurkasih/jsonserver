@@ -133,43 +133,57 @@
       "id": 1,
       "updateId": 1,
       "perkilo": 1,
-      "harga": 5000,
-      "namabarang": "Kaleng",
-      "lastupdate": "10-maret-2018"
+      "harga": "6000",
+      "namabarang": "Botol Shampo",
+      "lastupdate": "10-Januari-2018"
     },
     {
       "id": 2,
       "updateId": 2,
       "perkilo": 1,
-      "harga": 10000,
+      "harga": "2000",
       "namabarang": "Botol Pelatik",
-      "lastupdate": "10-januari-2018"
+      "lastupdate": "10-Nov-2018"
     },
     {
-      "namabarang": "Sukro",
-      "perkilo": "50",
-      "harga": "5000000",
-      "lastupdate": "07-Nov-2020",
+      "namabarang": "Temabaga",
+      "perkilo": "1",
+      "harga": "10000",
+      "lastupdate": "07-Nov-2018",
       "updateId": 3,
       "id": 3
     },
     {
-      "namabarang": "Tutu Botol",
+      "namabarang": "Gelas Kaca",
       "perkilo": "1",
-      "harga": "2000",
-      "lastupdate": "08-Nov-2018",
+      "harga": "5000",
+      "lastupdate": "08-Nov-8080",
       "id": 4
+    },
+    {
+      "namabarang": "HandPhone Rusak",
+      "perkilo": "1",
+      "harga": "5000",
+      "lastupdate": "13-Okrober-2018",
+      "id": 5
+    },
+    {
+      "namabarang": "Kardus",
+      "perkilo": "1",
+      "harga": "5000",
+      "lastupdate": "09-Nov-2019",
+      "id": 6
     }
   ],
   "myaccounts": [
     {
       "id": 1,
       "accountId": 1,
-      "nama": "Dodi",
-      "namabank": "Bank Merdeka Selamanya",
-      "alamat": "tangerang selatan",
-      "hp": "0847328676854698",
-      "totalpembelian": 50000
+      "nama": "Dodi Nurkasih",
+      "namabank": "Bank Kasih",
+      "alamat": "Kec.Ligung Majalengka Dusun bagung",
+      "hp": "085317241487",
+      "totalpembelian": "1000.000"
     }
   ],
   "pembelian": [
