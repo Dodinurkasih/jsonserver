@@ -197,5 +197,27 @@
       "transactionId": 2,
       "statusId": 2
     }
+  ],
+  "schedule": [
+    {
+      "id": 1,
+      "scheduleId": 1,
+      "transactionId": 1,
+      "judul": "Penjemputan Sampah",
+      "hari": "Senin",
+      "tanggal": "11-Januari-2018",
+      "lokawal": "Kantor Balai Desa jombang",
+      "lokakhir": "Kantor Balai Desa lumbur",
+      "views": 0
+    },
+    {
+      "judul": "Penjemputan sampah",
+      "tanggal": "14-Nov-2018",
+      "hari": "Rabu",
+      "lokawal": "Cicaheum",
+      "lokakhir": "Cimahi",
+      "id": 2,
+      "views": 0
+    }
   ]
 }
